@@ -125,4 +125,3 @@ const renderCategories = async () => {
   renderCategories();
 })();
 
-let enableForm = () => {
